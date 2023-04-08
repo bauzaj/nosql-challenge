@@ -37,9 +37,7 @@ Display the first document in the result using pprint
 
 Convert the result to a Pandas DataFrame, print the number of rows in the DataFrame, and display the first 10 rows.
 
-**Data Visualization**
 
-The data visualization task produced a map of the top 5 food establishments in London that have a hygiene score of 5. The map was created using Folium, and the longitude and latitude of each of the five establishments plotted. A marker was placed on the map for each of the five establishments.
 
 **Conclusion**
 
